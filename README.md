@@ -13,7 +13,7 @@ From designing autonomous rovers and eco-drones to engineering AI-powered produc
 
 ## Featured Projects
 
-- **[TaskFlow AI](#)**  
+- **[TaskFlow AI](https://www.linkedin.com/feed/update/urn:li:activity:7357098420378959872/)**  
   Natural language → automated workflows.  
   Manage Google Sheets, Email, and Calendar by typing what you want.  
   _Built with GPT-3.5, FastAPI, LangChain, and Streamlit._
@@ -22,15 +22,15 @@ From designing autonomous rovers and eco-drones to engineering AI-powered produc
   AI-powered course planner that converts natural language queries into relational insights on courses, ratings, and reviews.  
   _Built with FastAPI, LangChain, and async pipelines._
 
-- **[Autonomous Agricultural Rover](#)**  
+- **[Autonomous Agricultural Rover](https://www.linkedin.com/feed/update/urn:li:activity:7348681839357624320/)**  
   Self-navigating rover for planting & irrigation, powered by solar energy.  
   Published in **IJSHRE** for sustainable engineering and system design.  
 
-- **[Eco-Friendly Drones](#)**  
+- **[Eco-Friendly Drones](https://www.linkedin.com/feed/update/urn:li:activity:7348680779259854849/)**  
   Two drones made from recycled components — one for environmental cleaning, one for FPV flight.  
   _Integrated Pixhawk, GPS navigation, and embedded control systems._
 
-- **[Marketplace in Java](https://lnkd.in/ddqkbRns)**  
+- **[Marketplace in Java](https://www.linkedin.com/feed/update/urn:li:activity:7355506723190714368/)**  
   Full-stack multithreaded commerce platform with real-time messaging, SHA-256 security, and thread-safe persistence.  
   _CS18000 project at Purdue University._
 
@@ -66,12 +66,16 @@ From designing autonomous rovers and eco-drones to engineering AI-powered produc
 
 ---
 
-## 🌍 Beyond Code
+# Beyond Code
 
-I’ve always believed technology should **empower communities**.  
-That’s why I founded **STEM for All**, a grassroots initiative bringing hands-on STEM education to underserved schools in Mumbai.  
+I’ve always believed technology is more than circuits and code — it’s a way to shape how people live, connect, and grow.  
 
-When I’m not coding or soldering, you’ll find me exploring sustainability, piloting FPV drones, or mentoring peers in building AI-powered systems.
+What excites me isn’t just building systems that work, but creating ones that **matter**: tools that empower communities, make learning accessible, and move us toward a more sustainable future.  
+
+Curiosity drives me — the kind that asks not only *“How does this work?”* but *“How can this help?”*  
+That mindset has guided me from classrooms to clubs, from leading peers to mentoring others, and it continues to shape the kind of engineer I want to become.  
+
+I’m not just seeking to master intelligence in machines. I want to understand how the intelligence we build can reflect our values — collaboration, creativity, and care for the world we share.  
 
 ---
 
@@ -82,4 +86,4 @@ When I’m not coding or soldering, you’ll find me exploring sustainability, p
 
 ---
 
-⭐️ *Let’s build tools that think with us.*
+*Let’s build tools that think with us.*
